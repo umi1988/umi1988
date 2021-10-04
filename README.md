@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umi1988
+- 👋 Hi, I’m Umesh Kumar -  @umi1988
 - 👀 I’m interested in learnign new skills
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on different projects.
