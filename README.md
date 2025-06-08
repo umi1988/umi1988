@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umesh Kumar -  @umi1988
-- 👀 I’m interested in learnign new skills
+- 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me - umesh.se1988@gmail.com
