@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umesh Kumar -  @umi1988
 - 👀 I’m interested in learning new skills
-- I am a Java develop working in Bangalore India.
+- I am a Java developer working in Bangalore India.
 - 🌱 I’m currently learning Data science technology tech stack.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me - umesh.se1988@gmail.com
